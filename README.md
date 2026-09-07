@@ -1,4 +1,4 @@
-# Lab 3: Detección de Amenazas y Canalización de Telemetría (Splunk + Sysmon + Red vs Blue)
+# 🛡️ Lab 3: Detección de Amenazas y Canalización de Telemetría (Splunk + Sysmon + Red vs Blue)
 
 ## Resumen Ejecutivo
 Este proyecto detalla el despliegue e implementación completa de un laboratorio de monitoreo de seguridad empresarial bajo una arquitectura **Red vs Blue**. El objetivo principal fue recolectar telemetría profunda a nivel de sistema operativo en **Windows Server 2022** utilizando **Microsoft Sysmon**, reenviar los eventos en formato XML mediante **Splunk Universal Forwarder**, construir paneles de detección en **Splunk Enterprise** y validar la captura de amenazas ante vectores de red y ejecución generados desde **Kali Linux**.
